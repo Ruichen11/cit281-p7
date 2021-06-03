@@ -1,4 +1,4 @@
-# Cit281-p7
+# CIT281 Project-7
 
 Purpose of this Project:
 - Creating an GitHub Page as an entry web page for CIT Minor Portfolio 
